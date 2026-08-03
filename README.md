@@ -1,4 +1,4 @@
 ## About Me
 
-Hey, I'm Ezo! I'm a secondary student in Canada, and I'm a Design Generalist, which really just means I can never decide what I want to do 😅. I'm still learning to use HTML/CSS/JS, so I'd appreciate any feedback you have.
-Currently, I'm just experimenting on here, as well as making some school software.
+Hey, I'm Ezo! I'm a secondary student in Canada, design generalist, and aspiring software engineer. I'm still learning to code, so I'd appreciate any feedback on my work.
+Currently I'm just experimenting, as well as making some software for my high school.
